@@ -1,0 +1,33 @@
+body {
+    font-family: Garamond;
+    background-color: #d4d2d2;
+}
+aside {
+    display: inline-block;
+    padding-right: 25px;
+}
+article {
+    display: inline-block;
+    position: absolute;
+}
+ul {
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+li {
+    padding: 7px;
+}
+th, td {
+    border: solid black 1px;
+}
+table {
+    border-collapse: collapse;
+}
+.image {
+    float: left;
+    padding-right: 5px;
+}
+h1 {
+    font-size: 32px;
+}
